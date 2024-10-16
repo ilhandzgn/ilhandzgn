@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilhandzgn
+- 👋 Hi, I’m İlhan Düzgün
 - 👀 I’m interested in c# and ASP.NET 
 - 🌱 I'm currently learning software
 - 📫 How to reach me?
